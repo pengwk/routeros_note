@@ -8,7 +8,7 @@ RouterOS 学习笔记
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录:
 
    基本概念和术语
    常用命令
@@ -22,7 +22,7 @@ RouterOS 学习笔记
    
 
 
-Indices and tables
+索引与搜索
 ==================
 
 * :ref:`genindex`
